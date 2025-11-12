@@ -1,6 +1,6 @@
 # 🎯 rn-media-permissions
 
-> Lightweight, zero-configuration **React Native TurboModule** for handling media-related permissions under the **New Architecture**.
+> Lightweight, zero-configuration **React Native TurboModule** for handling media-related permissions.
 
 `rn-media-permissions` provides a unified, Promise-based API for requesting and checking camera, microphone, and photo-library permissions - without any manual native configuration.
 
