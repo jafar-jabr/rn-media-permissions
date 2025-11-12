@@ -1,0 +1,54 @@
+# Example app
+example/
+examples/
+demo/
+sandbox/
+
+# Build outputs
+android/.gradle/
+android/build/
+ios/build/
+ios/Pods/
+build/
+dist/
+lib/
+out/
+
+# Node & tooling
+node_modules/
+.npm/
+.yarn/
+.yarnrc*
+.pnp.*
+.yarnrc.yml
+.pnpm-lock.yaml
+package-lock.json
+
+# Tests & coverage
+__tests__/
+coverage/
+jest.config.js
+
+# Configs not needed in published package
+babel.config.js
+metro.config.js
+tsconfig.json
+tsconfig.build.json
+eslint*
+.prettier*
+*.log
+*.hprof
+*.iml
+
+# Git / CI / IDE
+.git/
+.github/
+.idea/
+.vscode/
+.DS_Store
+
+# Local files
+.env
+.env.*
+*.tgz
+*.zip
