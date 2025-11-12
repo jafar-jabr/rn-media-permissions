@@ -156,6 +156,3 @@ Existing libraries like `react-native-permissions` require manual native configu
 
 MIT © Jafar Jabr
 
----
-
-### ⭐ If you find this library useful, please star the repository!
